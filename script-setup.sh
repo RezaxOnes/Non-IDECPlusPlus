@@ -10,8 +10,8 @@ trap 'echo -e "${Red} Khong the thuc hien thao tac do loi khong xac dinh, huy th
 
 # Thuc Thi
 
-echo -e "${Green}[-] Copy Non-IDEC++ => ~/Non-IDEC++-env${RESET}"
-sudo cp -r "/home/$user_m/Non-IDEC++" "/home/$user_m/Non-IDEC++-env"
+echo -e "${Green}[-] Copy Non-IDECPlusPlus => ~/Non-IDEC++-env${RESET}"
+sudo cp -r "/home/$user_m/Non-IDECPlusPlus" "/home/$user_m/Non-IDEC++-env"
 sudo chmod 755 "/home/$user_m/Non-IDEC++-env"
 
 echo -e "${Green}[-] Dang cap quyen can thiet${RESET}"
