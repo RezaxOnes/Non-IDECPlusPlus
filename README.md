@@ -12,7 +12,7 @@ Tôi nghĩ nó là phiên bản đầu tiên và là phiên bản cuối cùng, 
  - [Linux](linux.md)
 
 ## Hướng dẫn sử dụng dòng lệnh
-- [Command](command.md)
+- [Command](command.txt)
 
 ## Nhân tiện, tôi cũng có làm thêm cấu hình đổi màu như visual studio code vì tôi khá thích màu của nó
 - [customerGnome-Text-Editor](customerColorTextEditor.md)
