@@ -12,10 +12,10 @@ Tôi nghĩ nó là phiên bản đầu tiên và là phiên bản cuối cùng, 
  - [Linux](linux.md)
 
 ## Hướng dẫn sử dụng dòng lệnh
-- [Command](command.txt)
+- [Command](command.md)
 
 ## Nhân tiện, tôi cũng có làm thêm cấu hình đổi màu như visual studio code vì tôi khá thích màu của nó
-- [customerGnome-Text-Editor](customerColorTextEditor.md)
+- [customerGnome-Text-Editor](customerColorTextEditor.txt)
   
 ## Lời cảm ơn
 - Cảm ơn vì bạn đã dùng tool của tôi, tôi còn không nghĩ nó là tool nhưng tôi thấy nó khá tiện lợi nên chia sẻ với mọi người, việc bạn dùng tool của tôi là bạn đã ủng hộ tôi rồi
