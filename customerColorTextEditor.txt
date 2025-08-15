@@ -1,4 +1,4 @@
- <!-- Customer -->
+ <!-- Customer C++-->
   <color name="comment11"                  value="#6A9955"/>
   <color name="warning11"                  value="#FF8800"/>
   <color name="error11"                    value="#F44747"/>
