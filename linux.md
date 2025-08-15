@@ -27,7 +27,7 @@ Second, you paste to your bash, please make sure your file "Non-IDECPlusPlus" in
 ## To uninstall
 
 ```bash
-cd autoShutdown
+cd Non-IDECPlusPlus
 sudo ./uninstall.sh && source ~/.bashrc
 ```
 
