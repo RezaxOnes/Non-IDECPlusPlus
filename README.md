@@ -1,6 +1,6 @@
 **This github repository "https://github.com/RezaxOnes/Non-IDECPlusPlus" is official by Rezaxones Limited. Additionly, all is fake.**
 
-# autoShutdown 1.0.0
+# Non-IDECPlusPlus 1.0.0
 
 - Nó sẽ làm được gì?
 1. Nó là một trình mô phỏng IDE
