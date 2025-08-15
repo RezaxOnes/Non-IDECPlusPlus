@@ -1,8 +1,8 @@
-## Command
-# rm -r <files or path>
+**Command**
+# rm -r \<files or path>
 # cd .. = from ../.. to ..
 # cd - = return to previous cd 
-# edit <Name IDE or Editor> <files or path>
+# edit \<Name IDE or Editor> \<files or path>
  - vm = vim
  - vsc = visual studio code
  - gte = gnome text editor
