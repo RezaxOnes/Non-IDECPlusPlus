@@ -1,0 +1,12 @@
+ <!-- Customer -->
+  <color name="comment11"                  value="#6A9955"/>
+  <color name="warning11"                  value="#FF8800"/>
+  <color name="error11"                    value="#F44747"/>
+  <color name="boolean11"                  value="#569CD6"/>
+  <color name="keyword11"                  value="#569CD6"/>
+  <color name="string11"                   value="#D69D85"/>
+  <color name="number11"                   value="#B5CEA8"/>
+  <color name="function11"                 value="#DCDCAA"/>
+  <color name="type11"                     value="#4EC9B0"/>
+
+=> path: /usr/share/gtksourceview-5/styles/Yaru-dark.xml

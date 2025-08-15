@@ -1,0 +1,3 @@
+# !/bin/bash
+
+bash -c "g++ -g test.cpp -o test && gdb ./test"
