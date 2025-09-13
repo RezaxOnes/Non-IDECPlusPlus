@@ -3,7 +3,8 @@
 Green="\033[1;32m"
 Red="\033[1;31m"
 RESET="\033[0m"
-user_m=$(logname)
+echo "Vui Long Nhap Ten User (Kiem tra o \"ls /home\")"
+read -p ">> " user_m
 
 set -Eeuo pipefail
 trap 'echo -e "${Red} Khong the thuc hien thao tac do loi khong xac dinh, huy thuc thi script.${RESET}" ' ERR

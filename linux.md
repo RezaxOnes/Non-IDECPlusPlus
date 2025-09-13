@@ -20,7 +20,7 @@ Second, you paste to your bash, please make sure your file "Non-IDECPlusPlus" in
  sudo chmod +x script-setup.sh && sudo chmod +x uninstall.sh
  sudo ./script-setup.sh && source ~/.bashrc
 ```
-- Once installed, it will automatically monitor your battery and shut down your system when needed.
+- Once installed, it is a Non-IDEC++, so you can run code and debug in terminal.
 - Please make sure you have used sudo
 - Enjoy it! =)
 
