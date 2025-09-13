@@ -10,3 +10,12 @@
   <color name="type11"                     value="#4EC9B0"/>
 
 => path: /usr/share/gtksourceview-5/styles/Yaru-dark.xml
+
+Block comment = comment: #6A9955
+Include: #C586C0
+Keyword: #569CD6
+Namespace = class = ...: #4EC9B0
+Typedef: #C586C0
+Number: #B5CEA8
+Declaration = call : #DCDCAA
+Control flow keyworld: #C586C0
