@@ -1,0 +1,22 @@
+#!/bin/bash
+echo "C++ Debug - Manual" 
+echo "Vui Long Nhap File Can Debug (Duong dan hoac ./file.cpp)"
+read -p ">> " file
+if [[ "$file" == "exit" || "$file" == "q" || "$file" == "exit m-debug" ]]; then 
+echo "Exit..."
+exit 0
+fi
+if [[ ! -f "$file" ]]; then 
+echo "Error: File '$file' Khong Ton Tai" 
+exit 1 
+fi 
+
+compilerDone="${file%.*}"
+g++ -g "$file" -o "$compilerDone" 
+
+if [[ $? -eq 0 ]]; then 
+gdb ./"$compilerDone" 
+else 
+echo "Bien dich that bai!" 
+exit 1
+fi

@@ -9,5 +9,6 @@
 # Example: edit gte ./test.cpp
 - run and debug = run and debug fixed file in command you can edit it
 - m-run = manual run
+- m-debug = manual debug
 # Example: >> ./test.cpp
    
