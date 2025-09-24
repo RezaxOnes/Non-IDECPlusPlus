@@ -16,7 +16,7 @@ sudo cp -r "/home/$user_m/Non-IDECPlusPlus" "/home/$user_m/Non-IDEC++-env"
 sudo chmod 755 "/home/$user_m/Non-IDEC++-env"
 
 echo -e "${Green}[-] Dang cap quyen can thiet${RESET}"
-sudo chmod +x "/home/$user_m/Non-IDEC++-env/m-run" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/m-debug" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/edit"  && sudo chmod +x "/home/$user_m/Non-IDEC++-env/run" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/debug" 
+sudo chmod +x "/home/$user_m/Non-IDEC++-env/m-run" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/m-debug" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/edit"  && sudo chmod +x "/home/$user_m/Non-IDEC++-env/run" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/debug" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/r" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/mr" && sudo chmod +x "/home/$user_m/Non-IDEC++-env/e"
 
 echo -e "${Green}[-] Dang them vao bien moi truong ${RESET}"
  echo "# Please read — this is custom. Do not touch any code above." >> "/home/$user_m/.bashrc"
