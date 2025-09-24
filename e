@@ -20,9 +20,9 @@ elif [[ "$editor" == "gte" ||  "$editor" == "gt" ]]; then
  gnome-text-editor "$file"
 elif [[ "$editor" == "nn" ||  "$editor" == "n" ]]; then
  nano "$file"
-elif [[ "$editor" == "vm" ||  "$editor" == "v"]]; then
+elif [[ "$editor" == "vm" ||  "$editor" == "v" ]]; then
  vim "$file"
-elif [[ "$editor" == "nvm" ||  "$editor" == "nv"]]; then
+elif [[ "$editor" == "nvm" ||  "$editor" == "nv" ]]; then
  nvim "$file"
 else
  $editor "$file"
